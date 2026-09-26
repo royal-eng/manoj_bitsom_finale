@@ -57,7 +57,7 @@ Run `npx tsx scripts/evaluate.ts` for a small, paid-provider synthetic smoke eva
 
 ## Deployment
 
-Production: https://scamshield-ten-mu.vercel.app — deployed to the `scamshield` project in `cnu1812s-projects`. Both API keys and model settings are configured as production secrets. No database or telephony account is required.
+Production: https://scamshield-ten-mu.vercel.app 
 
 To deploy subsequent changes from this linked directory, run `npx vercel deploy --prod`. `.vercelignore` excludes local environment files and test artifacts. Deployment is manual; no Git-triggered deployment is configured.
 
