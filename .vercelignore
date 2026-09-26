@@ -1,0 +1,8 @@
+.env
+.env.*
+.next/
+node_modules/
+preview-*.png
+tests/
+VERIFICATION.md
+scripts/check-providers.ts
